@@ -1,2 +1,3 @@
 # 9gansDownloader
-an simple python program to download all 9gans pictures every hour
+A Python script to download 9gans pictures every hour
+    https://www.9gans.com/
