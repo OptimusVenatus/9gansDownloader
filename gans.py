@@ -42,10 +42,10 @@ while True :
     t=str(t)
     t=t.split(":")
     print(t[0],f)
-    if t[0]==f :
+    if str(t[0])==str(f) :
         print('dumping...')
         dumpall()
-        if t[0]== 23 :
+        if str(t[0])== '23' :
             f=0
         else :
             f=int(t[0])+1
